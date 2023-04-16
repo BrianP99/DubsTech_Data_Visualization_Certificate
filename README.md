@@ -1,6 +1,6 @@
 # Data Visualization Certificate
 
-I earned this Data Visualization Certificate after completing DubsTech Data Visualization workshops in Autumn 2022.
+I earned this [Data Visualization Certificate](https://github.com/BrianP99/certificate/blob/main/Data%20Visualization%20Certificate%20of%20Completion%20-%20Brian%20Park.pdf) after completing DubsTech Data Visualization workshops in Autumn 2022.
 
 This certificate serves as proof of my knowledge and skills in creating effective data visualizations, which can help businesses and organizations make better decisions by analyzing and presenting data in a clear, concise, and meaningful way.
 
