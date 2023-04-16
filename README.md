@@ -1,4 +1,4 @@
-# Data Visualization Certificate
+# DubsTech Data Visualization Certificate
 
 I earned this [Data Visualization Certificate](https://github.com/BrianP99/certificate/blob/main/Data%20Visualization%20Certificate%20of%20Completion%20-%20Brian%20Park.pdf) after completing DubsTech Data Visualization workshops in Autumn 2022.
 
